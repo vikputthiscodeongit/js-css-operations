@@ -1,4 +1,4 @@
-import getUnit from "./getUnit";
+import getUnit from "./getUnit.js";
 
 export default function timeToMs(time) {
     const number = parseFloat(time);
