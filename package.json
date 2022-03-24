@@ -1,0 +1,41 @@
+{
+  "name": "@codebundlesbyvik/css-operations",
+  "version": "1.0.0",
+  "description": "Helper functions for CSS operations.",
+  "type": "module",
+  "main": "./index.js",
+  "module": "./index.js",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/vikputthiscodeongit/js-css-operations"
+  },
+  "keywords": [
+    "es6",
+    "css",
+    "helpers",
+    "get",
+    "unit",
+    "strip",
+    "time",
+    "duration",
+    "milliseconds",
+    "ms",
+    "media",
+    "features",
+    "queries",
+    "value"
+  ],
+  "author": "codebundlesbyvik",
+  "license": "MIT",
+  "bugs": "github.com/vikputthiscodeongit/js-css-operations/issues",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "transform": {}
+  }
+}
