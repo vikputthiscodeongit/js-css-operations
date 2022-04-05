@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/vikputthiscodeongit/js-css-operations"
+    "url": "https://github.com/vikputthiscodeongit/js-css-operations"
   },
   "keywords": [
     "es6",
@@ -30,7 +30,7 @@
   ],
   "author": "codebundlesbyvik",
   "license": "MIT",
-  "bugs": "github.com/vikputthiscodeongit/js-css-operations/issues",
+  "bugs": "https://github.com/vikputthiscodeongit/js-css-operations/issues",
   "devDependencies": {
     "cross-env": "^7.0.3",
     "jest": "^27.5.1"
