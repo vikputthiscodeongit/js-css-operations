@@ -1,6 +1,6 @@
 {
   "name": "@codebundlesbyvik/css-operations",
-  "version": "1.0.1",
+  "version": "1.0.1b",
   "description": "Helper functions for CSS operations.",
   "type": "module",
   "main": "./index.js",
