@@ -60,7 +60,7 @@ getPropValue(el, "background-color");
 // > "black"
 
 getPropValue(el, "non-existant");
-// > ""
+// > null
 ```
 
 <br>
